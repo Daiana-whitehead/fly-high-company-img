@@ -1,0 +1,50 @@
+nav {
+    background-color: orangered;
+    height: 100px;
+    width: 100%;
+    margin-top: 0%;
+}
+
+nav.div {
+    display: flex;
+}
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    font-size: medium;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 0%;
+    padding: 30px;
+}
+
+h2 {
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+    padding: 3px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    display: none;
+}
+
+div.img-travel {
+    margin: 30px;
+}
+
+img {
+    border: 2px solid black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}

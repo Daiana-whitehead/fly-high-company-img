@@ -1,0 +1,45 @@
+{
+    "images": [{
+            "src": "barcelona.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        },
+        {
+            "src": "bariloche.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }, {
+            "src": "cancun.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }, {
+            "src": "cataratas-iguazu1.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }, {
+            "src": "madrid.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }, {
+            "src": "mendoza.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }, {
+            "src": "miami1.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }, {
+            "src": "punta_cana_b.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }, {
+            "src": "rep.domenicana.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }, {
+            "src": "usuaia1.jpg",
+            "type": "image/png",
+            "sizes": "120x120"
+        }
+    ]
+}
